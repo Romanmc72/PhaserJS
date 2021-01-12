@@ -1,16 +1,19 @@
 # PhaserJS!
 
-Learning how to write simple browser based games using the PhaserJS framework.
+Learning how to write simple browser based games using the [PhaserJS](https://phaser.io/) framework.
 
 ## Why Phaser?
 
-**Setup**
+### Setup
+
 Phaser had a great tutorial that was easy to use and easy to get started as well as easy to understand how to integrate it with whatever server backend that you should so desire. I am personally not a node.js expert (yet) so the other game library tutorials that started with instructions like "run `git clone ...` then `npm install` and `npm run serve` and that's it!"; while the setup is "_convenient_" it is wildly unclear to the javascript uninitiated (i.e. me) which of the hundreds of auto generated files I am now looking at are required as part of this framework and which are required as part of the node.js server which I do not plan to use in production (looking at you MelonJS).
 
-**Syntax**
+### Syntax
+
 Additionally the syntax was super easy to understand and the tutorial did a fantastic job walking through how to start phaser with minimal dependency management as well as how to build a working game again with minimal dependencies.
 
-**Plus**
+### Plus
+
 Plus it works and looks nice.
 
 # Using this code
